@@ -15,3 +15,9 @@
 - [1.2 - EVOLUTION OF COMMUNICATION - FROM 1G TO 4G & 5G](https://www.youtube.com/watch?v=2nsEAw_SirQ)
 - [有多牛？从1G到5G，我们的使用报告未完待续](https://www.bilibili.com/video/BV1Cv4y1N7nG/?spm_id_from=333.337.search-card.all.click&vd_source=c285a47852f4b63fa36527fb012c7254)
 - [【老奇】5G，华为，土耳其——我花了两个月，搞懂了5G背后的秘密](https://www.bilibili.com/video/BV1fq4y1g7hq/?spm_id_from=333.337.search-card.all.click&vd_source=c285a47852f4b63fa36527fb012c7254)
+
+
+## 科普平台
+- [鲜枣课堂](http://212.64.71.66/)
+- [通信百科](http://www.ictbaike.com/)
+- [知乎：无线深海](https://www.zhihu.com/people/fu-you-cai-cai)

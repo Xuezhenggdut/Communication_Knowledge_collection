@@ -4,7 +4,7 @@
 - [Communication_eBooks](https://github.com/TianLin0509/Communication_eBooks)
 
 ## PPT/PDF
-[QUALCOMM: The Evolution of Mobile Technologies: 1G -> 2G -> 3G -> 4G LTE](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/the_evolution_of_mobile_technologies-wireless-networks.pdf)
+- [QUALCOMM: The Evolution of Mobile Technologies: 1G -> 2G -> 3G -> 4G LTE](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/the_evolution_of_mobile_technologies-wireless-networks.pdf)
 - [Introduction to Cellular Networks: 1G/2G/3G](https://www.cse.wustl.edu/~jain/cse574-20/ftp/j_16cel.pdf)
 - [1G, 2G, 3G, 4G, 5G](https://its-wiki.no/images/c/c8/From_1G_to_5G_Simon.pdf)
 - [谢磊](https://cs.nju.edu.cn/lxie/IOT/index.psp)：[第9章 移动通信网络[3G-4G]](https://cs.nju.edu.cn/lxie/IOT/Ch9.pdf)

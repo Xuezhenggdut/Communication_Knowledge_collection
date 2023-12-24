@@ -3,6 +3,12 @@
 ## Books
 - [Communication_eBooks](https://github.com/TianLin0509/Communication_eBooks)
 
+## MATH
+- [Stephen P. Boyd](https://web.stanford.edu/~boyd/)
+- [最优化：建模、算法与理论/最优化计算方法](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html)
+  - [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html)
+- [Mofei Song (宋沫飞)- 最优化方法](https://palm.seu.edu.cn/smf/)
+
 ## PPT/PDF
 - [QUALCOMM: The Evolution of Mobile Technologies: 1G -> 2G -> 3G -> 4G LTE](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/the_evolution_of_mobile_technologies-wireless-networks.pdf)
 - [Introduction to Cellular Networks: 1G/2G/3G](https://www.cse.wustl.edu/~jain/cse574-20/ftp/j_16cel.pdf)

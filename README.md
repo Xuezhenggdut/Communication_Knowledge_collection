@@ -23,8 +23,18 @@
 - [有多牛？从1G到5G，我们的使用报告未完待续](https://www.bilibili.com/video/BV1Cv4y1N7nG/?spm_id_from=333.337.search-card.all.click&vd_source=c285a47852f4b63fa36527fb012c7254)
 - [【老奇】5G，华为，土耳其——我花了两个月，搞懂了5G背后的秘密](https://www.bilibili.com/video/BV1fq4y1g7hq/?spm_id_from=333.337.search-card.all.click&vd_source=c285a47852f4b63fa36527fb012c7254)
 
+## 信息论
+
+- [北邮：Janeyang-bupt](https://space.bilibili.com/453434943)
+- [中大：《信息论与编码》课件（2021年春）](https://cse.sysu.edu.cn/coin/ITC.html)
 
 ## 科普平台
 - [鲜枣课堂](http://212.64.71.66/)
 - [通信百科](http://www.ictbaike.com/)
 - [知乎：无线深海](https://www.zhihu.com/people/fu-you-cai-cai)
+
+
+## Academic Group
+| People | Web | Affiliation | Github |
+| :---: | :---: | :---: | :---: |
+| [Arumugam Nallanathan](https://scholar.google.com/citations?user=PUSZggsAAAAJ&hl=en) | [Communication Systems Research (CSR) Group](https://csr.eecs.qmul.ac.uk/) | Queen Mary University of London | - |

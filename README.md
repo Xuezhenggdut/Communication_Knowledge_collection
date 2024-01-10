@@ -27,6 +27,7 @@
 
 - [北邮：Janeyang-bupt](https://space.bilibili.com/453434943)
 - [中大：《信息论与编码》课件（2021年春）](https://cse.sysu.edu.cn/coin/ITC.html)
+- [北京信息科技大学:信息论与编码](http://mooc1.chaoxing.com/course/214414429.html?edit=false&articleId=222557623)
 
 ## 科普平台
 - [鲜枣课堂](http://212.64.71.66/)

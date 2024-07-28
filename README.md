@@ -7,6 +7,7 @@
 - 深入浅出通信原理 (陈爱军)
 - 通信之道 : 从微积分到 5G
 - 信号处理与通信中的凸优化：从基础到应用
+- 《编程不难》《可视之美》《数学要素》《矩阵力量》《统计至简》《数据有道》《机器学习》[Visualize-ML](https://github.com/Visualize-ML)；[Video](https://space.bilibili.com/513194466)
 - 【BOOK-download】:[Z-Library](https://zh.z-lib.gs/)【电子版书籍到Z-Library搜索下载】
 
 ## MATH

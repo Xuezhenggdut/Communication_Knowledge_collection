@@ -36,6 +36,7 @@
 - [中大：《信息论与编码》课件（2021年春）](https://cse.sysu.edu.cn/coin/ITC.html)
 - [北京信息科技大学:信息论与编码](http://mooc1.chaoxing.com/course/214414429.html?edit=false&articleId=222557623)
 - [中国科学技术大学：信息论（刘斌）](https://faculty.ustc.edu.cn/flowice/zh_CN/zdylm/679092)
+- [西安电子科技大学：信息论及其应用（李晖）](https://mooc1.chaoxing.com/mooc-ans/course/222454433.html)
 
 ## 科普平台
 - [鲜枣课堂](http://212.64.71.66/)
